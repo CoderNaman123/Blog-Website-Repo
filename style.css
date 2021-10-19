@@ -1,0 +1,131 @@
+.navtxt {
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.navbr {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+
+.nav {
+  background: linear-gradient(90deg, rgba(219, 255, 0, 1) 2%, rgba(245, 255, 0, 1) 4%);
+}
+
+.car {
+  margin-top: 70px;
+  width: 100%;
+  height: 50%;
+}
+
+.carouselcap {
+  color: black;
+  display: inline-block;
+  border: 2px solid black;
+  background-color: white;
+  font-family: cursive;
+  padding: 10px;
+}
+
+.icon {
+  width: 100%;
+  height: 300px;
+  border: 2px solid black;
+  opacity: 1;
+}
+
+.fontp {
+  font-family: cursive;
+  text-align: justify;
+  font-size: 20px;
+}
+
+.fonth1 {
+  font-family: 'Lobster', cursive;
+  font-size: 80px;
+  color: purple;
+  text-align: center;
+}
+
+.fonth3 {
+  font-family: 'Satisfy', cursive;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#about {
+  background: linear-gradient(90deg, rgba(0, 35, 255, 1) 2%, rgba(0, 255, 225, 1) 42%);
+  padding: 20px;
+}
+
+#posts {
+  background: linear-gradient(90deg, rgba(79, 253, 29, 1) 7%, rgba(7, 116, 25, 1) 92%);
+  height: 800px;
+}
+
+.card-body {
+  background-color: yellow;
+}
+
+.btn {
+  background-color: red;
+  color: white;
+}
+
+.heading {
+  font-style: cursive;
+  font-size: 40px;
+}
+
+.sub {
+  font-family: 'Satisfy', cursive;
+  font-size: 30px;
+}
+
+.card {
+  border: 3px solid black;
+  box-shadow: 3px 3px 4px 4px purple;
+}
+
+.card:hover {
+  box-shadow: 5px 5px 6px 6px red;
+  transition: 0.5s;
+}
+
+.headpart {
+  font-family: 'Satisfy', cursive;
+}
+
+.para {
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.fullpart {
+  background: linear-gradient(0deg, rgba(0, 247, 255, 1) 42%, rgba(4, 252, 42, 1) 75%);
+}
+
+.style {
+  width: 50%;
+  height: 50%;
+  border: 4px solid black;
+}
+
+.styling {
+  border: 4px solid white;
+}
+
+.style:hover {
+  width: 70%;
+  height: 70%;
+  transition: 1s;
+}
+#gallery img{
+  width: 100%;
+  height: 100%;
+  border: 4px solid black;
+}
+
+#gallery{
+  background: aqua;
+}
